@@ -1,5 +1,5 @@
                                      Tempo                                     
-===============================================================================
+-------------------------------------------------------------------------------
 Description:
    This program is written in C using the library raylib so you can have a nice
    UI and GUI to listen to your legally acquired .mp3, .wav, and .ogg. 
@@ -13,7 +13,7 @@ Description:
 
    * To compile on Windows
       `Not working in progress`
-===============================================================================
+-------------------------------------------------------------------------------
 How to use:
    1. Make sure raylib is downloaded
       * https://www.raylib.com/
@@ -25,7 +25,7 @@ How to use:
 
    4. Listen to the music as you desire
 
-===============================================================================
+-------------------------------------------------------------------------------
 Credits
    * Code written by Owen Giles 
 
@@ -44,7 +44,7 @@ Credits
       project. The lines of code were written by me, AI only helped with 
       concepts and learning functions in raylib.
 
-===============================================================================
+-------------------------------------------------------------------------------
 License:
    No license, but if you want to use the code, change it at least 30% before 
       you call it your own please.
